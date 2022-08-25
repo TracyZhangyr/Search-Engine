@@ -1,0 +1,3 @@
+Number of Documents： 37497
+Number of Unique Words : 744755
+Size of Index : 658291KB

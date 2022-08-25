@@ -1,0 +1,125 @@
+Query: Informatics
+Number of URLs retrieved: 6143
+Top 20 URLs:
+www.ics.uci.edu/faculty
+www.ics.uci.edu/faculty/index.php
+www.ics.uci.edu/faculty/index.php?department=Informatics
+www.ics.uci.edu/~kay/courses/previous.html
+www.ics.uci.edu/community/news/notes/notes_2008.php
+www.ics.uci.edu/ugrad/degrees/degree_in4matx.php
+www.ics.uci.edu/~andre/teaching.html
+www.ics.uci.edu/community/news/notes/notes_2014.php
+www.ics.uci.edu/about/annualreport/2006-07/events.php
+www.ics.uci.edu/community/news/spotlight/spotlight_purpura.php
+www.ics.uci.edu/ugrad/qa
+www.ics.uci.edu/community/news/notes/notes_2010.php
+www.ics.uci.edu/prospective/en/degrees/informatics
+isg.ics.uci.edu/events.html
+www.ics.uci.edu/community/news/notes
+www.ics.uci.edu/~kay/courses/131/su13.html
+www.ics.uci.edu/faculty/index.php?department=Computer Science
+www.ics.uci.edu/~kay/courses/131/su12.html
+www.ics.uci.edu/community/news/spotlight/spotlight_hornick.php
+www.ics.uci.edu/community/news/notes/notes_2009.php
+
+
+Query: Mondego
+Number of URLs retrieved: 50
+Top 20 URLs:
+mondego.ics.uci.edu
+www.ics.uci.edu/~lopes
+mondego.ics.uci.edu/projects/clonedetection/tool/demo
+mondego.ics.uci.edu/projects/clonedetection/tool/latest/plugins
+mondego.ics.uci.edu/datasets/wikipedia-events/files
+mondego.ics.uci.edu/datasets/wikipedia-events?C=S;O=A
+mondego.ics.uci.edu/datasets?C=S;O=D
+mondego.ics.uci.edu/projects/clonedetection/tool/latest/plugins?C=M;O=D
+mondego.ics.uci.edu/projects/clonedetection/tool?C=M;O=A
+www.ics.uci.edu/~lopes/datasets/SDS_source-repo-18k.html
+mondego.ics.uci.edu/datasets/wikipedia-events?C=M;O=D
+mondego.ics.uci.edu/datasets/wikipedia-events?C=M;O=A
+mondego.ics.uci.edu/projects/clonedetection/tool/latest?C=N;O=D
+mondego.ics.uci.edu/projects/clonedetection/tool/demo?C=S;O=D
+www.ics.uci.edu/~lopes/datasets/Koders-log-2007.html
+mondego.ics.uci.edu/projects/clonedetection/tool?C=M;O=D
+mondego.ics.uci.edu/projects/clonedetection/tool/source?C=M;O=A
+mondego.ics.uci.edu/projects/clonedetection/tool/source
+mondego.ics.uci.edu/projects/clonedetection/tool/latest/features?C=D;O=D
+www.ics.uci.edu/~lopes/datasets/sourcerer-maven-aug12.html
+
+
+Query: Irvine
+Number of URLs retrieved: 12390
+Top 20 URLs:
+www.ics.uci.edu/~eppstein/bibs/eppstein.html
+www.ics.uci.edu/~eppstein/bibs/eppstein.bib
+cml.ics.uci.edu/category/aiml
+www.ics.uci.edu/facebook/browse/likes/UCIBrenICS/photos/pb.106291486908.-2207520000.1487108481./10154420875021909/search/str/%25E9%259D%259E%25E8%2590%25A5%25E5%2588%25A9%25E7%25BB%2584%25E7%25BB%2587/keywords_pages/events/252272701892321?acontext=%7B%22source%22%3A3%2C%22source_newsfeed_story_type%22%3A%22regular%22%2C%22action_history%22%3A%22%5B%7B%5C%22surface%5C%22%3A%5C%22newsfeed%5C%22%2C%5C%22mechanism%5C%22%3A%5C%22feed_story%5C%22%2C%5C%22extra_data%5C%22%3A%5B%5D%7D%5D%22%2C%22has_source%22%3Atrue%7D&source=3&source_newsfeed_story_type=regular&action_history=%5B%7B%22surface%22%3A%22newsfeed%22%2C%22mechanism%22%3A%22feed_story%22%2C%22extra_data%22%3A%5B%5D%7D%5D&has_source=1&hc_ref=PAGES_TIMELINE
+www.ics.uci.edu/facebook/login/browse/fanned_pages/search/str/%25E6%2595%2599%25E8%2582%25B2/keywords_pages/UCIBrenICS/photos/a.10150104180706909.283411.106291486908/10154351203306909?type=3
+www.ics.uci.edu/facebook/browse/likes/login/UCIBrenICS/photos/a.10150104180706909.283411.106291486908/10154402706541909?type=3
+www.ics.uci.edu/facebook/pages/create/dialog/UCIBrenICS/videos/10154385262331909/search/112204368792315/places-in/199405806739848/places/intersect/events/711137452397667/login?next=https%3A%2F%2Fwww.facebook.com%2FUCIBrenICS%2F%3Fref%3Dpage_internal
+www.ics.uci.edu/facebook/login/browse/fanned_pages/search/str/%25E6%2595%2599%25E8%2582%25B2/keywords_pages/UCIBrenICS/videos
+www.ics.uci.edu/facebook/events/340846149648374/UCIReunion2017/photos/o.106291486908/262134790874470?type=3
+www.ics.uci.edu/facebook/events/340846149648374/UCIReunion2017/photos/o.106291486908/262134790874470/browse/fanned_pages/login/search/str/%25E6%2595%2599%25E8%2582%25B2/keywords_pages?ref=page_about_category
+www.ics.uci.edu/facebook/browse/likes/search/str/%25E6%2595%2599%25E8%2582%25B2/keywords_pages/UCIBrenICS/photos/a.10150104180706909.283411.106291486908/10154351203306909?type=3
+www.ics.uci.edu/facebook/search/112204368792315/places-in/199405806739848/places/intersect?__xt__=11.%7B%22ref%22%3A%22seo_c%22%2C%22link_name%22%3A%22py_c%22%2C%22event%22%3A%22view_profile%22%2C%22page_id%22%3A39923337409%2C%22user_id%22%3A0%7D
+www.ics.uci.edu/facebook/events/340846149648374/UCIReunion2017/photos/o.106291486908/264324267322189/search/112204368792315/places-in/199405806739848/places/intersect?__xt__=11.%7B%22ref%22%3A%22seo_c%22%2C%22link_name%22%3A%22py_c%22%2C%22event%22%3A%22view_profile%22%2C%22page_id%22%3A39923337409%2C%22user_id%22%3A0%7D
+www.ics.uci.edu/facebook/events/340846149648374/UCIReunion2017/photos/o.106291486908/264324267322189?type=3
+www.ics.uci.edu/facebook/search/str/%25E6%2595%2599%25E8%2582%25B2/keywords_pages/events/246966085750971/UCIBrenICS/photos/a.10150104180706909.283411.106291486908/10154351203306909/browse/fanned_pages?id=106291486908&showauxiliary=1&fanorigin=timeline_like_chaining&ref=page_internal
+www.ics.uci.edu/facebook/login/browse/fanned_pages/search/str/%25E6%2595%2599%25E8%2582%25B2/keywords_pages/UCIBrenICS/videos/events/711137452397667/UCIReunion2017/photos/o.106291486908/262134790874470?type=3
+www.ics.uci.edu/facebook/browse/likes/login/UCIBrenICS/photos/a.10150104180706909.283411.106291486908/10154402706541909/events/1849114518693808?acontext=%7B%22ref%22%3A%2298%22%2C%22action_history%22%3A%22null%22%7D
+www.ics.uci.edu/facebook/events/340846149648374/UCIReunion2017/photos/o.106291486908/262134790874470/browse/fanned_pages/UCIBrenICS/videos/10154385262331909
+www.ics.uci.edu/facebook/login/browse/fanned_pages?id=106291486908&showauxiliary=1&fanorigin=timeline_like_chaining&ref=page_internal
+www.ics.uci.edu/facebook/events/340846149648374?acontext=%7B%22ref%22%3A%2298%22%2C%22action_history%22%3A%22null%22%7D
+
+
+Query: artificial intelligence
+Number of URLs retrieved: 710
+Top 20 URLs:
+www.ics.uci.edu/~dechter/publications.html
+www.ics.uci.edu/~dechter/publications
+www.ics.uci.edu/~pazzani/Publications/OldPublications.html
+www.ics.uci.edu/~pazzani/Publications/APubs.html
+www.ics.uci.edu/~kobsa/kobsa-publi.htm
+ibook.ics.uci.edu/references.html
+www.ics.uci.edu/~ihler/papers/bib.html
+www.ics.uci.edu/~ihler/pubs.html
+www.ics.uci.edu/~dechter/research.html
+www.ics.uci.edu/~rickl/courses/cs-171/2016-fq-cs171/CS-171-FQ-2016_20160919.htm
+www.ics.uci.edu/~rickl/courses/cs-171/2014-fq-cs171/CS-171-FQ-2014.htm
+www.ics.uci.edu/~rickl/courses/cs-171/2016-fq-cs171/CS-171-FQ-2016_20160918.htm
+www.ics.uci.edu/faculty/index.php
+www.ics.uci.edu/faculty
+www.ics.uci.edu/~kibler
+www.ics.uci.edu/~dechter/past_courses.html
+isg.ics.uci.edu/events.html
+www.ics.uci.edu/faculty/index.php?department=Computer Science
+www.ics.uci.edu/~jutts/hyman.html
+www.ics.uci.edu/~kibler/freshmanSyllabus.html
+
+
+Query: computer science
+Number of URLs retrieved: 14626
+Top 20 URLs:
+www.socsci.uci.edu/contact/index.php/mailto:zwu6@uci.edu
+fano.ics.uci.edu/cites/Organization
+mondego.ics.uci.edu/datasets/maven-contents.txt
+isg.ics.uci.edu/events.html
+www.ics.uci.edu/~eppstein/bibs/dyngraph.bib
+www.ics.uci.edu/faculty/index.php
+www.ics.uci.edu/faculty
+www.ics.uci.edu/~eppstein/bibs/eppstein.bib
+www.ics.uci.edu/~eppstein/bibs/eppstein.html
+www.ics.uci.edu/~asuncion/bush_science.htm
+www.ics.uci.edu/community/news/notes/notes_2008.php
+www.ics.uci.edu/~pattis/quotations.html
+www.ics.uci.edu/faculty/index.php?department=Computer Science
+www.ics.uci.edu/community/news/notes/notes_2010.php
+www.ics.uci.edu/~eppstein/bibs/kpath.bib
+www.ics.uci.edu/community/news/notes/notes_2009.php
+cml.ics.uci.edu/category/aiml
+graphics.ics.uci.edu/publication.html
+www.ics.uci.edu/community/news/notes/notes_2014.php
+www.ics.uci.edu/~eppstein/bibs/subiso.bib
+
+
